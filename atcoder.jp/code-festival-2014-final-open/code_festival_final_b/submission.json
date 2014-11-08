@@ -1,0 +1,12 @@
+{
+	"id": 270360,
+	"epoch_second": 1415417717,
+	"problem_id": "code_festival_final_b",
+	"contest_id": "code-festival-2014-final-open",
+	"user_id": "tkzw_21",
+	"language": "C++11 (GCC 4.8.1)",
+	"point": 100,
+	"length": 373,
+	"result": "AC",
+	"execution_time": 24
+}
