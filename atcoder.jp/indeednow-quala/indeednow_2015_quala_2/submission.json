@@ -1,0 +1,12 @@
+{
+	"id": 358046,
+	"epoch_second": 1426368722,
+	"problem_id": "indeednow_2015_quala_2",
+	"contest_id": "indeednow-quala",
+	"user_id": "tkzw_21",
+	"language": "C++11 (GCC 4.8.1)",
+	"point": 100,
+	"length": 517,
+	"result": "AC",
+	"execution_time": 32
+}
