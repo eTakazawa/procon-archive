@@ -1,0 +1,12 @@
+{
+	"id": 367806,
+	"epoch_second": 1427351032,
+	"problem_id": "indeednow_2015_finala_a",
+	"contest_id": "indeednow-finala-open",
+	"user_id": "tkzw_21",
+	"language": "C++11 (GCC 4.9.2)",
+	"point": 100,
+	"length": 404,
+	"result": "AC",
+	"execution_time": 41
+}
