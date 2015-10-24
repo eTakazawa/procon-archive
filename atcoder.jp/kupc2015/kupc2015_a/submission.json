@@ -1,0 +1,12 @@
+{
+	"id": 533100,
+	"epoch_second": 1445661181,
+	"problem_id": "kupc2015_a",
+	"contest_id": "kupc2015",
+	"user_id": "tkzw_21",
+	"language": "C++11 (GCC 4.9.2)",
+	"point": 100,
+	"length": 419,
+	"result": "AC",
+	"execution_time": 28
+}
