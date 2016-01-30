@@ -1,0 +1,12 @@
+{
+	"id": 624786,
+	"epoch_second": 1454160027,
+	"problem_id": "discovery_2016_qual_b",
+	"contest_id": "discovery2016-qual",
+	"user_id": "tkzw_21",
+	"language": "C++11 (GCC 4.9.2)",
+	"point": 100,
+	"length": 786,
+	"result": "AC",
+	"execution_time": 325
+}
