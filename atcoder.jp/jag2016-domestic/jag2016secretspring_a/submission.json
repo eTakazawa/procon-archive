@@ -1,0 +1,12 @@
+{
+	"id": 717108,
+	"epoch_second": 1462421975,
+	"problem_id": "jag2016secretspring_a",
+	"contest_id": "jag2016-domestic",
+	"user_id": "tkzw_21",
+	"language": "C++14 (GCC 5.4.1)",
+	"point": 100,
+	"length": 331,
+	"result": "AC",
+	"execution_time": 4
+}
