@@ -1,0 +1,12 @@
+{
+	"id": 758799,
+	"epoch_second": 1465350595,
+	"problem_id": "nyc2015_2",
+	"contest_id": "NYC2015",
+	"user_id": "tkzw_21",
+	"language": "C++11 (GCC 4.8.1)",
+	"point": 2,
+	"length": 592,
+	"result": "AC",
+	"execution_time": 33
+}
