@@ -1,0 +1,12 @@
+{
+	"id": 832210,
+	"epoch_second": 1470546003,
+	"problem_id": "tkppc2016_b",
+	"contest_id": "tkppc2",
+	"user_id": "tkzw_21",
+	"language": "C++14 (GCC 5.4.1)",
+	"point": 40,
+	"length": 553,
+	"result": "AC",
+	"execution_time": 7
+}
