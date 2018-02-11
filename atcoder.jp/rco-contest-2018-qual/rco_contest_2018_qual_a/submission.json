@@ -1,0 +1,12 @@
+{
+	"id": 2086789,
+	"epoch_second": 1518352039,
+	"problem_id": "rco_contest_2018_qual_a",
+	"contest_id": "rco-contest-2018-qual",
+	"user_id": "tkzw_21",
+	"language": "C++14 (GCC 5.4.1)",
+	"point": 77344,
+	"length": 4870,
+	"result": "AC",
+	"execution_time": 192
+}
