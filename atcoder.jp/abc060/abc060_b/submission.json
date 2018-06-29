@@ -1,0 +1,12 @@
+{
+	"id": 2755598,
+	"epoch_second": 1530258201,
+	"problem_id": "abc060_b",
+	"contest_id": "abc060",
+	"user_id": "tkzw_21",
+	"language": "C++14 (GCC 5.4.1)",
+	"point": 200,
+	"length": 270,
+	"result": "AC",
+	"execution_time": 1
+}
